@@ -4,7 +4,7 @@
 
 	<groupId>com.eyousefi</groupId>
 	<artifactId>demo</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>demo</name>
@@ -20,7 +20,7 @@
       <url>https://github.com/ErfanY/demo</url>
       <connection>scm:git:git@github.com/ErfanY/demo.git</connection>
       <developerConnection>scm:git:git@github.com:ErfanY/demo.git</developerConnection>
-     <tag>demo-0.0.2</tag>
+     <tag>HEAD</tag>
   </scm>
     <distributionManagement>
         <snapshotRepository>
